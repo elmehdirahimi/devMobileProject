@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test",
-    "slug": "test",
+    "name": "travel",
+    "slug": "travel",
     "platforms": [
       "ios",
       "android",
@@ -9,10 +9,10 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/background.png",
     "scheme": "myapp",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/background.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/mehdimidox/devMobileProject"
   }
 }
